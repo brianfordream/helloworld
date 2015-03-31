@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="AndroidTry:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="withAndroid.war">
+      <element id="artifact" artifact-name="AndroidTry:war exploded" />
+    </root>
+  </artifact>
+</component>
